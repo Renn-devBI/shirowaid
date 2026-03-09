@@ -1,18 +1,11 @@
 
 <div align="center">
   <h1>OURIN BAILEYS</h1>
-  <img src="https://files.catbox.moe/4n0efj.jpg" alt="Thumbnail" width='100%' />
+  <img src="https://i.ibb.co.com/Wvs3hCLv/Whats-App-Image-2026-01-21-at-3-21-58-PM.jpg" alt="Thumbnail" width='100%' />
 </div>
 
 <br>
 
-The latest updated Baileys WhatsApp supports following channels, and doesn't exit easily when using WhatsApp or Telegram bots. This Baileys is equipped with the latest buttons and has updated the jid to lid, suitable for those of you who have a project. Please use this Baileys. 
-
-WhatsApp Baileys updates the jid to lid, payment/interactiveMessage/viewOnceMessage buttons and others, suitable for those of you who have a script project that you want 
-
-Baileys is a fork from github https://github.com/Nted3xec/baileys
-
----
 
 ### Features improved by the owner
 
