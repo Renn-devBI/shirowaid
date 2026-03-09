@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>OURIN BAILEYS</h1>
+  <h1>shirowaid</h1>
   <img src="https://i.ibb.co.com/Wvs3hCLv/Whats-App-Image-2026-01-21-at-3-21-58-PM.jpg" alt="Thumbnail" width='100%' />
 </div>
 
