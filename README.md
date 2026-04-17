@@ -230,7 +230,7 @@ await shirowaid.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "OURIN MD",
+        footer: "SHIRO-V2 MD",
         buttons: [
             {
                 name: "cta_copy",
@@ -253,7 +253,7 @@ await shirowaid.sendMessage(jid, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "OURIN MD",      
+        footer: "SHIRO-V2 MD",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
@@ -332,7 +332,7 @@ await shirowaid.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "OURIN MD",
+        footer: "SHIRO-V2 MD",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -385,7 +385,7 @@ await shirowaid.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "OURIN MD",
+        footer: "SHIRO-V2 MD",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "saweitt.pdf",
@@ -396,7 +396,7 @@ await shirowaid.sendMessage(jid, {
             isForwarded: false
         },
         externalAdReply: {
-            title: "OURIN MD",
+            title: "SHIRO-V2 MD",
             body: "Zann",
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
@@ -427,7 +427,7 @@ await shirowaid.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "OURIN MD",
+        footer: "SHIRO-V2 MD",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "saweitt.pdf",
@@ -541,7 +541,7 @@ Send a sticker pack with multiple stickers in one message:
 await shirowaid.sendMessage(jid, {
     stickerPack: {
         name: "My Sticker Pack",
-        publisher: "OURIN MD",
+        publisher: "SHIRO-V2 MD",
         description: "Custom sticker pack",
         cover: { url: "https://example.com/cover.png" },
         stickers: [
